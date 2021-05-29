@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Multi_Currency_Converter.iml" filepath="$PROJECT_DIR$/.idea/modules/Multi_Currency_Converter.iml" group="Multi_Currency_Converter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Multi Currency Converter/app" />
+    </modules>
+  </component>
+</project>
